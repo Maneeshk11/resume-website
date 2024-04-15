@@ -2,7 +2,7 @@
 
 const Education = () => {
     return (
-        <div className="w-full flex flex-col text-sm py-1">
+        <div className="w-full flex flex-col text-sm py-1 gap-y-1">
             <div className="w-full flex flex-col">
                 <div className="flex flex-row items-center justify-between w-full">
                     <span className="font-bold pb-[0.5px]">University of Florida</span>

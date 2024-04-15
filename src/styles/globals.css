@@ -41,3 +41,7 @@
   font-weight: 800;
   src: url('/fonts/Satoshi/Satoshi-Black.woff2');
 }
+
+body {
+  box-sizing: border-box;
+}
