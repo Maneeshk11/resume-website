@@ -25,9 +25,9 @@
 }
 
 @font-face {
-  font-family: tex-pyre;
-  font-weight: 300;
-  src: url('/fonts/Satoshi/Satoshi-Light.woff2');
+  font-family: tex-pyre-italic;
+  font-weight: 400;
+  src: url('/fonts/tex-gyre-pagella/texgyrepagella-italic.otf');
 }
 @font-face {
   font-family: tex-pyre;
